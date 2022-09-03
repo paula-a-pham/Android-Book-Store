@@ -111,7 +111,6 @@ public class Book_Helper extends SQLiteOpenHelper {
 //        row.put("nationality",nationality);
 //        row.put("no_of_books",no_of_books);
         book_database=getWritableDatabase();
-//        database.insert("AUTHOR",null,row);
         book_database.execSQL("insert into AUTHOR VALUES ('"+name+"'"+",'"+nationality+"'"+","+String.valueOf(no_of_books)+");");
         book_database.close();
     }

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/about.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/add_user.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/apperance.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/collection.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/colored_logo.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/dark_mode.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/edit.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/fav.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/fav_fill.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/fav_outline.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/home.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/ic_logo.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/lang_icon.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/language.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/light_mode.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/lock.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/log_out.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/login.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/mail.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/menu.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/more.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/program_icon_foreground.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/read.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/round_back.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/search.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/search_view_bg.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/selector_fav.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/share.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/support.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/toast_back.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/drawable/user.xml" value="0.258" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_about.xml" value="0.21920289855072464" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_animation_test.xml" value="0.223731884057971" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_bok_templete.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_book_templete.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_edit_data.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_favorite.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_favorite_book.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_favorite_list.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_favorite_templete.xml" value="0.4" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_intro.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_login_and_signup.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_settings_list.xml" value="0.4" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_settings_page.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_signup.xml" value="0.16757246376811594" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_support.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_welcome.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/activity_welcome_page.xml" value="0.2" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/card.xml" value="0.6538461538461539" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/custom_toast.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_collection.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_edit__data.xml" value="0.22418478260869565" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_favorite.xml" value="0.2246376811594203" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_searsh.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/layout/fragment_signup.xml" value="0.264" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/bottom_login_and_signup_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/pop_up_apperance.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/pop_up_language.xml" value="0.1" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/menu/top_option_menu.xml" value="0.3148148148148148" />
+        <entry key="..\:/Android/Final_Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.258" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

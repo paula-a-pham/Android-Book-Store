@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Profile" android:title="Profile" android:icon="@drawable/user" app:showAsAction="withText"></item>
+    <item android:id="@+id/about_option" android:title="@string/about" android:icon="@drawable/about" app:showAsAction="withText" ></item>
+    <item android:id="@+id/share_option" android:title="@string/share" android:icon="@drawable/share" app:showAsAction="withText" ></item>
+    <item android:id="@+id/support_option" android:title="@string/support" android:icon="@drawable/support" app:showAsAction="withText" ></item>
+    <item android:id="@+id/logout_btn" android:title="Log Out" android:icon="@drawable/log_out" app:showAsAction="withText"></item>
+
+</menu>

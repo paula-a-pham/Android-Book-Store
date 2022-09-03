@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Signup_Fragment">
+
+    <LinearLayout
+        android:id="@+id/edit_page_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="50dp"
+        android:weightSum="1.5">
+
+        <TextView
+            android:id="@+id/signup_page_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="25dp"
+            android:layout_weight=".5"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="SIGN UP"
+            android:textAlignment="center"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/signup_page_mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_weight=".25"
+            android:drawableLeft="@drawable/mail"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="   E - MAIL"
+            android:inputType="textEmailAddress"
+            android:textAlignment="textStart"
+            />
+
+        <EditText
+            android:id="@+id/signup_page_pass1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_weight=".25"
+            android:drawableLeft="@drawable/lock"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="   PASSWORD"
+            android:inputType="textPassword"
+            android:textAlignment="textStart"
+            />
+
+        <EditText
+            android:id="@+id/signup_page_pass2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="50dp"
+            android:layout_weight=".25"
+            android:drawableLeft="@drawable/lock"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="   CONFIRM PASSWORD"
+            android:inputType="textPassword"
+            android:textAlignment="textStart"
+            />
+
+        <Button
+            android:id="@+id/signup_page_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginBottom="25dp"
+            android:layout_weight=".25"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="SIGN UP"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+    </LinearLayout>
+</FrameLayout>

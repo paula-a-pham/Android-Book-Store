@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Final_Project</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="support">Support</string>
+    <string name="logout">Log Out</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorite</string>
+    <string name="search">search</string>
+    <string name="collection">Collection</string>
+    <string name="login_tab">LOGIN</string>
+    <string name="signup_tab">SIGN UP</string>
+    <string name="language">LANGUAGE</string>
+    <string name="apperance">APPERANCE</string>
+    <string name="version">VERSION</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_program">This app allows you to read a lot of famous and most interesting books and provides you books in many categories like horror, romance, fantasy, mystery and science fiction books. And you can keep the books you like by putting them in your favourites. Also, you can search for any book easily. You can edit your information at any time. You can also share the application with your friends. You can enjoy the application in light mode or dark mode. And you can contact us via the support icon.</string>
+</resources>

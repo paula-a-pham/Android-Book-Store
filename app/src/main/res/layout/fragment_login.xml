@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login_Fragment">
+
+    <LinearLayout
+        android:id="@+id/login_page_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="50dp"
+        android:paddingTop="85dp"
+        android:paddingRight="50dp"
+        android:paddingBottom="85dp"
+        android:weightSum=".8">
+
+        <TextView
+            android:id="@+id/login_page_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="25dp"
+            android:layout_weight=".25"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="LOGIN"
+            android:textAlignment="center"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/login_page_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_weight=".25"
+            android:drawableLeft="@drawable/user"
+            android:drawingCacheQuality="auto"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="   EMAIL"
+            android:inputType="textPersonName"
+            android:textAlignment="textStart"
+            />
+
+        <EditText
+            android:id="@+id/login_page_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="50dp"
+            android:layout_weight=".25"
+            android:drawableLeft="@drawable/lock"
+            android:ems="10"
+            android:gravity="center_horizontal|center_vertical"
+            android:hint="   PASSWORD"
+            android:inputType="textPassword"
+            android:textAlignment="textStart"
+            />
+
+        <Button
+            android:id="@+id/login_page_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginBottom="25dp"
+            android:layout_weight=".05"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="LOGIN"
+            android:textAlignment="center"
+            android:textSize="30sp" />
+    </LinearLayout>
+</FrameLayout>
